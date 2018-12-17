@@ -1,3 +1,5 @@
+pragma solidity ^0.4.23;
+
 import './MyToken.sol';
 import "../node_modules/openzeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol";
 import "../node_modules/openzeppelin-solidity/contracts/crowdsale/validation/CappedCrowdsale.sol";
